@@ -9,7 +9,7 @@ Seja qual for a ocasião Demeter é a melhor forma de você interagir com seus f
 Neste projeto utilizei o UIKit na linguagem Swift. 
 
 Foi um projeto pra colocar em prática conceitos de navegação e autolayout.
-O projeto é um app que a partir do seu signo te retorna uma planta e de dá informaçoes sobre como cultivar, relação com seu signo e espiritualidade. 
+Desenvolvi a ideia do protótipo e as imagens no Figma.
 
 
 ## Imagens 📸  
