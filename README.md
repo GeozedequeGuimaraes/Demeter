@@ -29,9 +29,9 @@
 |:---:|:---:|
 | <img width="360" alt="LaunchScreen" src="https://user-images.githubusercontent.com/74778769/172724593-7e04e029-828b-4b6f-9d22-0b0f2bd1903e.png"/> | <img width="360" alt="Apresentação" src="https://user-images.githubusercontent.com/74778769/172724848-ae7375cc-7487-453d-92d0-e8058c91a109.png"/> |
 
-| Escolha do Signo | Signo Selecionado |
-|:---:|:---:|
-| <img width="360" alt="Escolha do Signo" src="https://user-images.githubusercontent.com/74778769/172725245-6f6e49d1-eefd-406d-b765-f0b6eacec503.png"/> | <img width="360" alt="Signo Selecionado" src="https://user-images.githubusercontent.com/74778769/172725379-afe15373-82d3-42b8-9094-b63351acfaa8.png"/> |
+| Escolha do Signo |
+|:---:|
+| <img width="360" alt="Escolha do Signo" src="https://user-images.githubusercontent.com/74778769/172725245-6f6e49d1-eefd-406d-b765-f0b6eacec503.png"/> |
 
 </div>
 
@@ -67,7 +67,6 @@ Projeto desenvolvido no **Apple Developer Academy** — CIn-UFPE (Recife, PE, Br
 <div align="center">
 
 **Geozedeque Guimarães**
-
 Estudante de Ciência da Computação — CIn-UFPE
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
